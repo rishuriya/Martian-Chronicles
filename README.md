@@ -5,7 +5,7 @@ As a NASA scientist, you are constantly exploring the fascinating world of Mars 
 
 You have a brilliant idea to create a Python GUI app that can fetch and display the latest images from the Mars Rover based on specific parameters 💡. You remember learning about PyQT, a powerful library for creating GUI apps, and you decide to use it for this project 💻.
 
-You quickly started coding and soon enough, your app is able to retrieve the latest images from the Mars Rover API 💥. You added a "Generate Image" button that generates and displays the images based on the parameters entered by the user 🖼️. It's a great start, but you want to take it one step further 💪.
+You quickly started coding and soon enough, your app is able to retrieve the latest images from the Mars Rover API 💥. You added a "Fetch Image" button that retrieves and displays the images based on the parameters entered by the user 🖼️. It's a great start, but you want to take it one step further 💪.
 
 You want to share the images with your colleagues and friends, but you don't want to go through the hassle of manually sending each image 📩. You remember learning about different Python libraries and APIs for sending emails and you decide to integrate this functionality into your app 💻.
 
@@ -18,7 +18,7 @@ Upon successful completion of sending the email, you added a toast message that 
 ## Requirements 📋
 
 * Retrieve the images from the Mars Rover API.
-* Add a "Generate Image" button to display the images based on user-entered parameters.
+* Add a "Fetch Image" button to display the images based on user-entered parameters.
 * Integrate email sending functionality with a Python library or API.
 * Allow the user to enter the subject, message body, and recipients list for the email.
 * Attach the generated image to the email.
